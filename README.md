@@ -8,6 +8,10 @@ Esse controle corresponde à tela de login de um sistema, tela de cadastro de us
 menu e tela de configuração de conexão com um banco MySQL. 
 Além disso, também conta com função para validação do acesso do usuário.
 
+**Aprimoramento** 
+
+Codificação de senha utilizando Hash hbSHA-512 e Salt Aleatório.
+
 Pode ser utilizada como base para qualquer sistema feito em Harbour, utilizando HMG como IDE.
 -----
 **Harbour HMG**
@@ -16,6 +20,10 @@ Tela de Controle de Acesso, Cadastro de Usuários e Acessos em um sistema (CRUD)
 This control has a login screen for the system, a user management screen (CRUD), 
 a menu and a screen to setup the connection with the MySQL. 
 Besides, it has a function to validate the user access.
+
+**Improviment** 
+
+Password encoding using hbSHA-512 and Random Salt.
 
 It can be used as starting point to any system developed using Harbour and HMG as IDE.
 ----
